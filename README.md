@@ -1,0 +1,1 @@
+# plugins-faq-schema-for-pages-and-posts
